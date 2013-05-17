@@ -5,8 +5,8 @@ The objective of this project is to analyze public Wikimedia logs to determine d
 <br><br>
 The goal of this project is to:
 <br>
-1.) Perform temporal analysis on total number of requests per hour.
-2.) Find the most popular Wikimedia project based on total views per hour per project.
-3.) Find the top 10 most popular pages during a given day.
-4.) Find the top 10 pages that returned the most content during a given day.
+1.) Perform temporal analysis on total number of requests per hour.<br>
+2.) Find the most popular Wikimedia project based on total views per hour per project.<br>
+3.) Find the top 10 most popular pages during a given day.<br>
+4.) Find the top 10 pages that returned the most content during a given day.<br>
 5.) Determine whether this data obeys Zipf’s law in terms of popularity.
